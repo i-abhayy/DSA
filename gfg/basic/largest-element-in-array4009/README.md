@@ -31,7 +31,7 @@ Explanation: There is only one element which is the largest.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T16:22:41.455Z  
+**Submitted:** 2026-10-29T12:42:31.186Z  
 
 ```java
 class Solution {
